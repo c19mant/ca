@@ -1,8 +1,7 @@
-#Συνεργατικές Εφαρμογές
+# Συνεργατικές Εφαρμογές
 
-##Τριαντάφυλλος Μάντσιος
+## Τριαντάφυλλος Μάντσιος
 
-[Μήνυμα] (https://www.linkedin.com/in/triantafyllos-mantsios-08ab1217b/)
+[Μήνυμα](https://www.linkedin.com/in/triantafyllos-mantsios-08ab1217b/)
 
-Ένα -[]
-Δύο -[]
+
